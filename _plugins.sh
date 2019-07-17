@@ -1,0 +1,1 @@
+yarn add slate-auto-replace slate-code slate-collapse-on-escape slate-drop-or-paste-images slate-lists slate-mark-hotkeys slate-no-empty slate-paste-linkify slate-soft-break slate-sticky-inlines slate-suggestions slate-trailing-block slate-instant-replace
